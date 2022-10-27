@@ -1,7 +1,7 @@
 [
   {
     "id": "6359ae0673d916cc0cb9a9b2",
-    "category_Id": "1",
+    "category_Id": "01",
     "name": "Spring FrameWork",
     "image": "https://4.bp.blogspot.com/-9kYSwCDRbms/W-qSUvwnFWI/AAAAAAAAEsE/j4EeFEPQHBc-QpxMV9l3gQAaLAuG2WhTgCLcBGAs/s1600/spring-framework.png",
     "details": " This is beginners to expert Spring Boot 2 tutorial.  We have used the latest release of Spring Boot 2+ in all examples. This tutorial gives you all the possible Spring boot features that are required to build a Spring-based enterprise J2EE web applications or RESTful APIs. Spring Boot uses a completely new development model to make Java Development very easy by avoiding some tedious development steps and boilerplate code and configuration.The Spring Framework is a Java platform that provides comprehensive infrastructure support for developing Java applications. Spring handles the infrastructure so you can focus on your application.Spring enables you to build applications from plain old Java objects (POJOs) and to apply enterprise services non-invasively to POJOs. This capability applies to the Java SE programming model and to full and partial Java EE. ",
@@ -9,7 +9,7 @@
   },
   {
     "id": "6359ae061d52bc5c11f723b5",
-    "category_Id": "1",
+    "category_Id": "01",
     "name": "Flutter Development",
     "image": "https://storage.googleapis.com/cms-storage-bucket/70760bf1e88b184bb1bc.png",
     "details": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. First described in 2015, Flutter was released in May 2017.Flutter apps are written in the Dart language and make use of many of the language's more advanced features. While writing and debugging an application, Flutter runs in the Dart virtual machine, which features a just-in-time execution engine.Flutter is made as a cross-platform SDK that can be used to build frontend and backend applications in a variety of programming languages, including Dart, Java, C/C++, and more. Its powerful framework and tools make it easy to quickly build high-quality mobile apps for any purpose",
@@ -17,7 +17,7 @@
   },
   {
     "id": "6359ae06eea1a440bed4a390",
-    "category_Id": "1",
+    "category_Id": "01",
     "name": "Anguler JS",
     "image": "https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/angularjs-logo-blog-header_0.jpg?itok=CUBxFqam",
     "details": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write.AngularJS: AngularJs is a JavaScript open-source front-end framework that is mainly used to develop single-page web applications(SPAs)Is Angular better than react?Is Angular better than React? Angular is better than React if your application is enterprise-grade and you need to incorporate complex functionalities like progressive, single-page, and native web apps. However, React specializes in creating UI components and can be used in any application, including single-page apps",
@@ -25,7 +25,7 @@
   },
   {
     "id": "6359ae06ed41f836f3f97e10",
-    "category_Id": "2",
+    "category_Id": "02",
     "name": "Graphics Design",
     "image": "https://www.newperspectivestudio.co.za/wp-content/uploads/2020/07/Graphic-_Design-job-description-east-london.jpg",
     "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts.Graphic designers create visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, and captivate consumers. They develop the overall layout and production design for applications such as advertisements, brochures, magazines, and reports.Graphic design is a great career for people who are creative thinkers and enjoy art, technology, and communication. There are design needs across every industry, so Graphic Designers have many opportunities to take on a range of new and exciting projects.",
@@ -33,7 +33,7 @@
   },
   {
     "id": "6359ae06ce4ddf1c854459ae",
-    "category_Id": "2",
+    "category_Id": "02",
     "name": "UX/UI",
     "image": "https://celesttechnologies.com/assets/images/blog/Different-Between-UI-UX.png",
     "details": "User interface (UI) design refers to the aesthetic elements by which people interact with a product, such as buttons, icons, menu bars, typography, colors, and more. User experience (UX) design refers to the experience a user has when interacting with a product.UI design can be a very good career, providing ample opportunities and a competitive salary. There are, in fact, quite a few benefits to a career as a UI Designer. If you have a fine eye for visuals and a strong creative impulse, UI design can be a great way to scratch that itch.UX design is a field that can be very stressful. Many times, there are tight deadlines, and the designer must create a product that meets the needs of the client while also meeting their own personal standards.",
@@ -41,7 +41,7 @@
   },
   {
     "id": "6359ae06f8d1976c2a09ef9e",
-    "category_Id": "2",
+    "category_Id": "02",
     "name": "Adove PhotoShop",
     "image": "",
     "details": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS. It was originally created in 1988 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole.you can download a 7-day free trial of Photoshop. The free trial is the official, full version of the app. It includes all the features and updates in the latest version of Photoshop.Photoshop is a better bet because it is much more raster-focused than Figma and has more robust photo editing tools. Professionals who employ Photoshop use the application in various industries, including digital art, photography, & graphic designHow much does Photoshop cost? There are several Creative Cloud plans that include Photoshop. You can purchase it as a standalone app for US$20.99/month or opt for annual billing at US$239.88/yr. Both options give you access to all the latest Photoshop features and updates and 100GB of cloud storage.",
@@ -49,7 +49,7 @@
   },
   {
     "id": "6359ae0690cfd60fdb7f0519",
-    "category_Id": "2",
+    "category_Id": "02",
     "name": "Adove Illistator Logo Design ",
     "image": "https://i.ytimg.com/vi/AinkCNooh2A/maxresdefault.jpg",
     "details": "Adobe Illustrator is a vector graphics editor and design program developed and marketed by Adobe Inc. Originally designed for the Apple Macintosh, development of Adobe Illustrator began in 1985. Along with Creative Cloud, Illustrator CC was releasedAdobe Illustrator is best for experienced graphic designers interested in creating high quality scalable graphics. Photoshop is the best software for designers in need of advanced photo editing capabilities.Illustrator, we're going to look at in this full course, and it's perfect for web and UI, but it also gives you skills in terms of designing logos and symbols, so a lot of people will learn Illustrator because it has dual purpose. You get to use it for a bunch of different stuff, as well as print as well as web",
@@ -57,7 +57,7 @@
   },
   {
     "id": "6359ae064d941eabc61273e2",
-    "category_Id": "3",
+    "category_Id": "03",
     "name": "Digital Marketting",
     "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/history_and_evolution_of_digital_marketing.jpg",
     "details": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel.Digital marketing is the marketing and advertising of a business, person, product, or service using online channels, electronic devices, and digital technologies. A few examples of digital marketing include social media, email, pay-per-click (PPC), search engine optimization (SEO), and more.Using digital marketing techniques, you can reach a global audience in a way that's cost-effective, scalable and measurable. Some of the key benefits of digital marketing include: The ability to interact with your prospects and learn exactly what they are looking for i.e. get to know your customers better! Examples of digital marketing strategies include a social media campaign that includes partnerships with influencers, a content marketing strategy that uses online guides to drive leads, or a growth marketing strategy that uses social media and email build customer loyalty.",
@@ -65,7 +65,7 @@
   },
   {
     "id": "6359b05c8586c7bec109be42",
-    "category_Id": "3",
+    "category_Id": "03",
     "name": "SEO Short Course",
     "image": "https://www.wordstream.com/wp-content/uploads/2022/08/what-does-seo-stand-for.png",
     "details": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic.SEO works by optimizing a website's content, conducting keyword research, and earning inbound links to increase that content's ranking and the website's visibility.In short, SEO is crucial because it makes your website more visible, and that means more traffic and more opportunities to convert prospects into customers. Check out the SEO tools you can use for optimal ranking.",
@@ -73,7 +73,7 @@
   },
   {
     "id": "6359b05c01fd5508f04ea55c",
-    "category_Id": "4",
+    "category_Id": "04",
     "name": "Microsoft Office Course(2016)",
     "image": "https://api.softwarekeep.com/media/nimbus/helpcenter/Microsoft_Office_Complete_Guide-1.png",
     "details": "Microsoft Office is a suite of applications designed to help with productivity and completing common tasks on a computer. You can create and edit documents containing text and images, work with data in spreadsheets and databases, and create presentations and posters. Word. Excel. PowerPoint.It contains a word processor (Word), a spreadsheet program (Excel) and a presentation program (PowerPoint), an email client (Outlook), a database management system (Access), and a desktop publishing app (Publisher). Office is produced in several versions targeted towards different end-users and computing environments.Microsoft Office has become a leading platform to drive productivity at home and in the workplace. Whether it's managing email in Outlook, or building analysis spreadsheets in Excel, Office has made carrying out many computer based tasks easier for all of us.",
@@ -81,7 +81,7 @@
   },
   {
     "id": "6359b05c965b4c8f0a870dae",
-    "category_Id": "5",
+    "category_Id": "05",
     "name": "Spoken English",
     "image": "https://www.chancellorbd.com/wp-content/uploads/2019/12/SPOKEN-ENGLISH-001-1024x548.jpg",
     "details": "Spoken English is English that is spoken by people to converse and communicate. It comprises the usage of words, phrases and sentences verbally in order to communicate or express ideas or feelings to people around us.language that is spoken, not written or sung: The library holds recordings of the spoken word as opposed to music. SMART Vocabulary: related words and phrases. Informal talking & conversation.English is the majority native language in the United Kingdom, the United States, Canada, Australia, New Zealand (see Anglosphere) and the Republic of Ireland, and is widely spoken in some areas of the Caribbean, Africa, South Asia, Southeast Asia, and Oceania.",
@@ -89,7 +89,7 @@
   },
   {
     "id": "6359b05cda96bec7c64b0eca",
-    "category_Id": "5",
+    "category_Id": "05",
     "name": "Foudation Grammer",
     "image": "https://cdn1.vectorstock.com/i/1000x1000/93/45/grammar-learn-system-and-structure-vector-26899345.jpg",
     "details": "Basic Grammar Concepts: Parts of Speech. To start expanding your grammar knowledge, it's helpful to begin with an understanding of the eight traditional parts of speech that make up our sentences: nouns, pronouns, verbs, adjectives, adverbs, prepositions, interjections, and conjunctions.rules of a language governing the sounds, words, sentences, and other elements, as well as their combination and interpretation. The word grammar also denotes the study of these abstract features or a book presenting these rules.English spelling and grammar have so many exceptions to the rules that non-native speakers can struggle to remember them all. Memorization of irregular verbs and irregular spellings are the best solution, which only comes with practice and repeated exposure to the language.",
@@ -97,7 +97,7 @@
   },
   {
     "id": "6359b05c8cda0d67744fda56",
-    "category_Id": "5",
+    "category_Id": "05",
     "name": "IELTS Course",
     "image": "https://miro.medium.com/max/1400/1*JYu4rh3rVys8d9-IOS8izg.png",
     "details": "The International English Language Testing System, is an international standardized test of English language proficiency for non-native English language speakers. It is jointly managed by the British Council, IDP: IELTS Australia and Cambridge Assessment English, and was established in 1989.The International English Language Testing System (IELTS) is designed to help you work, study or migrate to a country where English is the native language. This includes countries such as Australia, Canada, New Zealand, the UK and USA.Whether you prefer to take your test at home, in a test centre, on a computer, or with paper and pen, IELTS is the right choice for you. The great thing about IELTS Online is it's the same content and format as IELTS taken in a test centre. You don't need to learn a new test format.",
@@ -105,7 +105,7 @@
   },
   {
     "id": "6359b05c387e1a44144d0246",
-    "category_Id": "6",
+    "category_Id": "06",
     "name": "Mathmetics",
     "image": "https://cdn.cdnparenting.com/articles/2020/11/01194956/1588916176.jpg",
     "details": "Mathematics is an area of knowledge that includes such topics as numbers (arithmetic and number theory), formulas and related structures.Mathematics (from Ancient Greek μάθημα; máthēma: 'knowledge, study, learning') is an area of knowledge that includes such topics as numbers (arithmetic and number theory), formulas and related structures (algebra), shapes and the spaces in which they are contained (geometry), and quantities and their changes.Mathematics is a subject that deals with numbers, shapes, logic, quantity and arrangements. Mathematics teaches to solve problems based on numerical.The Father of Math is the great Greek mathematician and philosopher Archimedes.",
@@ -113,7 +113,7 @@
   },
   {
     "id": "6359b05cbf4ef2bc498112bb",
-    "category_Id": "6",
+    "category_Id": "06",
     "name": "Physics",
     "image": "https://images.theconversation.com/files/191827/original/file-20171025-25516-g7rtyl.jpg?ixlib=rb-1.1.0&rect=0%2C70%2C7875%2C5667&q=45&auto=format&w=926&fit=clip",
     "details": "Physics is the natural science that studies matter, its fundamental constituents, its motion and behavior through space and time, and the related entities of energy and force. Physics is one of the most fundamental scientific disciplines, with its main goal being to understand how the universe behaves.physics, science that deals with the structure of matter and the interactions between the fundamental constituents of the observable universe.Medical physics and biophysics. Find the information you need from IOP Publishing's world-leading medical physics and biophysics journals and books.",
@@ -121,7 +121,7 @@
   },
   {
     "id": "6359b05c9d1f243c2b7470b2",
-    "category_Id": "6",
+    "category_Id": "06",
     "name": "Chemistry",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYYMZgTI8KUWLe3dMBqKfsHQoHQSE7S5Xrg&usqp=CAU",
     "details": "Chemistry is the scientific study of the properties and behavior of matter. It is a natural science that covers the elements that make up matter to the compounds composed of atoms, molecules.Chemistry is the branch of science that deals with the properties, composition, and structure of elements and compounds, how they can change, and the energy that is released or absorbed when they change.Chemistry is essential for meeting our basic needs of food, clothing, shelter, health, energy, and clean air, water, and soil. Chemical technologies enrich our quality of life in numerous ways by providing new solutions to problems in health, materials, and energy usage.Advancing excellence, connecting chemical scientists and shaping the future of the chemical sciences for the benefit of humanity.Chemistry is a subdiscipline of science that deals with the study of matter and the substances that constitute it. ",
@@ -129,7 +129,7 @@
   },
   {
     "id": "6359b05cc482c5ed8de243a6",
-    "category_Id": "7",
+    "category_Id": "07",
     "name": "Online Motivation",
     "image": "https://i0.wp.com/www.iedunote.com/img/1374/motivation-definition-meaning.jpg?fit=728%2C562&amp;quality=100&amp;ssl=1",
     "details": "Motivation is the reason for which humans and other animals initiate, continue, or terminate a behavior at a given time. Motivational states are commonly understood as forces acting within the agent that create a disposition to engage in goal-directed behavior.Regularly review your goals and progress.Continue to set new goals.Keep the momentum up.Find mentors, for example, someone you look up to who is experienced in the habit you want to change Surround yourself with positive people.Motivation reflects something unique about each one of us and allows us to gain valued outcomes like improved performance, enhanced wellbeing, personal growth, or a sense of purpose. Motivation is a pathway to change our way of thinking, feeling, and behaving",
