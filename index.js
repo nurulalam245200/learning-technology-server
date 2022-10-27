@@ -12,6 +12,10 @@ app.get("/", (req, res) => {
   res.send("Learning App Rurring");
 });
 
+app.get("/course-categories", (req, res) => {
+  res.send(categories);
+});
+
 app.get("/category", (req, res) => {
   res.send(categories);
 });
